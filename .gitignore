@@ -91,3 +91,10 @@ python/tuplex.egg-info/
 tuplex.egg-info/
 
 wheelhouse/
+
+# Python venv's
+venv*/
+
+# Emacs backup and autosave files
+*~
+#*#
