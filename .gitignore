@@ -97,4 +97,4 @@ venv*/
 
 # Emacs backup and autosave files
 *~
-#*#
+\#*\#
